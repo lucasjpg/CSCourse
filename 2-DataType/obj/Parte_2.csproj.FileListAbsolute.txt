@@ -1,0 +1,70 @@
+/home/lucas/Documentos/Curso CS/Parte_2/bin/Debug/net5.0/Parte_2
+/home/lucas/Documentos/Curso CS/Parte_2/bin/Debug/net5.0/Parte_2.deps.json
+/home/lucas/Documentos/Curso CS/Parte_2/bin/Debug/net5.0/Parte_2.runtimeconfig.json
+/home/lucas/Documentos/Curso CS/Parte_2/bin/Debug/net5.0/Parte_2.runtimeconfig.dev.json
+/home/lucas/Documentos/Curso CS/Parte_2/bin/Debug/net5.0/Parte_2.dll
+/home/lucas/Documentos/Curso CS/Parte_2/bin/Debug/net5.0/ref/Parte_2.dll
+/home/lucas/Documentos/Curso CS/Parte_2/bin/Debug/net5.0/Parte_2.pdb
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/Parte_2.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/Parte_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/Parte_2.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/Parte_2.AssemblyInfo.cs
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/Parte_2.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/Parte_2.dll
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/ref/Parte_2.dll
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/Parte_2.pdb
+/home/lucas/Documentos/Curso CS/Parte_2/obj/Debug/net5.0/Parte_2.genruntimeconfig.cache
+/home/lucas/Documentos/Curso CS/2-Logica/bin/Debug/net5.0/Parte_2
+/home/lucas/Documentos/Curso CS/2-Logica/bin/Debug/net5.0/Parte_2.deps.json
+/home/lucas/Documentos/Curso CS/2-Logica/bin/Debug/net5.0/Parte_2.runtimeconfig.json
+/home/lucas/Documentos/Curso CS/2-Logica/bin/Debug/net5.0/Parte_2.runtimeconfig.dev.json
+/home/lucas/Documentos/Curso CS/2-Logica/bin/Debug/net5.0/Parte_2.dll
+/home/lucas/Documentos/Curso CS/2-Logica/bin/Debug/net5.0/ref/Parte_2.dll
+/home/lucas/Documentos/Curso CS/2-Logica/bin/Debug/net5.0/Parte_2.pdb
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/Parte_2.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/Parte_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/Parte_2.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/Parte_2.AssemblyInfo.cs
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/Parte_2.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/Parte_2.dll
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/ref/Parte_2.dll
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/Parte_2.pdb
+/home/lucas/Documentos/Curso CS/2-Logica/obj/Debug/net5.0/Parte_2.genruntimeconfig.cache
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/Parte_2
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/Parte_2.deps.json
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/Parte_2.runtimeconfig.json
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/Parte_2.runtimeconfig.dev.json
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/Parte_2.dll
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/ref/Parte_2.dll
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/Parte_2.pdb
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.AssemblyInfo.cs
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.dll
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/ref/Parte_2.dll
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.pdb
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.genruntimeconfig.cache
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/Npgsql.dll
+/home/lucas/Documentos/Curso CS/2-DataType/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/home/lucas/Documentos/Curso CS/2-DataType/obj/Debug/net5.0/Parte_2.csproj.CopyComplete
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/Parte_2
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/Parte_2.deps.json
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/Parte_2.runtimeconfig.json
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/Parte_2.runtimeconfig.dev.json
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/Parte_2.dll
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/ref/Parte_2.dll
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/Parte_2.pdb
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/Npgsql.dll
+/home/lucas/Documentos/CSCourse/2-DataType/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.csproj.AssemblyReference.cache
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.AssemblyInfoInputs.cache
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.AssemblyInfo.cs
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.csproj.CopyComplete
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.dll
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/ref/Parte_2.dll
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.pdb
+/home/lucas/Documentos/CSCourse/2-DataType/obj/Debug/net5.0/Parte_2.genruntimeconfig.cache
