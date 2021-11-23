@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbND12HKWSlxjAowKIth798HRgIldFZt1XshouksUONxyho81XeFD1Pdb1tdTJezUoMUBZGyza17RHaGSsIduA==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Documentos/CSCourse/2-DataType/Parte_2.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/npgsql/6.0.0/npgsql.6.0.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
