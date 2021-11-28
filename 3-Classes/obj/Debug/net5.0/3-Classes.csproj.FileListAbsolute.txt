@@ -1,0 +1,16 @@
+/home/lucas/Documentos/CSCourse/3-Classes/bin/Debug/net5.0/3-Classes
+/home/lucas/Documentos/CSCourse/3-Classes/bin/Debug/net5.0/3-Classes.deps.json
+/home/lucas/Documentos/CSCourse/3-Classes/bin/Debug/net5.0/3-Classes.runtimeconfig.json
+/home/lucas/Documentos/CSCourse/3-Classes/bin/Debug/net5.0/3-Classes.runtimeconfig.dev.json
+/home/lucas/Documentos/CSCourse/3-Classes/bin/Debug/net5.0/3-Classes.dll
+/home/lucas/Documentos/CSCourse/3-Classes/bin/Debug/net5.0/ref/3-Classes.dll
+/home/lucas/Documentos/CSCourse/3-Classes/bin/Debug/net5.0/3-Classes.pdb
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/3-Classes.csproj.AssemblyReference.cache
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/3-Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/3-Classes.AssemblyInfoInputs.cache
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/3-Classes.AssemblyInfo.cs
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/3-Classes.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/3-Classes.dll
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/ref/3-Classes.dll
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/3-Classes.pdb
+/home/lucas/Documentos/CSCourse/3-Classes/obj/Debug/net5.0/3-Classes.genruntimeconfig.cache
